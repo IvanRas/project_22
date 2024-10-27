@@ -81,6 +81,8 @@ DATABASES = {
     }
 }
 
+# SECURITY WARNING: keep the secret key used in production secret!
+SECRET_KEY = 'django-insecure-sw_*z9q9f%kdrra3+%-=km8j*n46-%fe15d7d%#nd#m(&^r0ho'
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
